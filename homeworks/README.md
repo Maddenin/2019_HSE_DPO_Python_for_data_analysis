@@ -1,2 +1,12 @@
 ## Домашние задания
-**Домашнее задание 1**: дедлайн 23 октября 23:59, [файл с заданием](https://nbviewer.jupyter.org/github/rogovich/2019_HSE_DPO_Python_for_data_analysis/blob/master/homeworks/HW1_231119/2019_HW1_NumPy_HSE_DPO.ipynb), [ссылка для сдачи](https://www.dropbox.com/request/yRePv11F1BJsiLzp8qk8)
+
+## Домашние задания
+**Домашнее задание 1**: дедлайн 23 октября 23:59 
+* [ссылка на файл с заданием в nbviewer](https://nbviewer.jupyter.org/github/rogovich/2019_HSE_DPO_Python_for_data_analysis/blob/master/homeworks/16-10-2019_HW_Numpy/16-10-2019_HW1_Numpy.ipynb)
+* [ссылка на файл с заданием на github](https://github.com/rogovich/2019_HSE_DPO_Python_for_data_analysis/blob/master/homeworks/16-10-2019_HW_Numpy/16-10-2019_HW1_Numpy.ipynb)
+* [ссылка для сдачи](https://www.dropbox.com/request/yRePv11F1BJsiLzp8qk8)
+
+**Домашнее задание 2**: дедлайн 6 ноября 23:59  (макс. оценка 20 баллов)
+* [ссылка на файл с заданием в nbviewer](https://nbviewer.jupyter.org/github/rogovich/2019_HSE_DPO_Python_for_data_analysis/blob/master/homeworks/23-10-2019_HW_Pandas/23-10-2019_HW_Pandas.ipynb)
+* [ссылка на файл с заданием на github](https://github.com/rogovich/2019_HSE_DPO_Python_for_data_analysis/blob/master/homeworks/23-10-2019_HW_Pandas/23-10-2019_HW_Pandas.ipynb)
+* [ссылка для сдачи](https://www.dropbox.com/request/Kv4Opa85GNHWWKxtGi9g)
