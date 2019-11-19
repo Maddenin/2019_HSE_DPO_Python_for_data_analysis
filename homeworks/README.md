@@ -9,3 +9,8 @@
 * [ссылка на файл с заданием в nbviewer](https://nbviewer.jupyter.org/github/rogovich/2019_HSE_DPO_Python_for_data_analysis/blob/master/homeworks/10-23-2019_HW_Pandas/10-23-2019_HW_Pandas.ipynb)
 * [ссылка на файл с заданием на github](https://github.com/rogovich/2019_HSE_DPO_Python_for_data_analysis/blob/master/homeworks/10-23-2019_HW_Pandas/10-23-2019_HW_Pandas.ipynb)
 * [ссылка для сдачи](https://www.dropbox.com/request/Kv4Opa85GNHWWKxtGi9g)
+
+
+**Домашнее задание 3**: дедлайн 20 ноября 23:59
+* [ссылка на файл с заданием на github](https://github.com/rogovich/2019_HSE_DPO_Python_for_data_analysis/blob/master/homeworks/11-13-2019_HW_Scraping/11-13-2019_HW_Scraping.ipynb)
+* [ссылка для сдачи](https://www.dropbox.com/request/FkN52bcluPVf67OaKIDG)
